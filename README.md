@@ -1,2 +1,2 @@
-# [Il mio sito](https://giammix.github.io/campionato.html)
+# [Il mio sito](https://giammix.github.io/)
 ### Classifica serei A!
